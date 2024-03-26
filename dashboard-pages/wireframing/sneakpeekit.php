@@ -31,7 +31,7 @@ if ($conn->connect_error) {
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
     <link rel="shortcut icon" href="../../images/logow.png" type="image/x-icon">
     <link rel="stylesheet" href="../../dashboard-pages/dashboard-css/tools.css">
-    <title>LOL Colors</title>
+    <title>SNEAKPEEKIT</title>
 </head>
 
 <body class="bg-white dark:bg-gray-800">
@@ -280,34 +280,34 @@ if ($conn->connect_error) {
     <section class="p-4 sm:ml-64">
         <div class="tools-header">
             <div class="tools-content">
-                <h1 class="text-gray-900 dark:text-white"> Introducing LOL colors</h1>
-                <p class="text-gray-600 dark:text-gray-300"> Unleash your creativity with LOL Colors, your ultimate source for curated color palette inspiration. Whether you're designing a website, crafting a logo, or working on a digital art project, LOL Colors offers a handpicked selection of color palettes to spark your imagination.</p>
+                <h1 class="text-gray-900 dark:text-white"> Introducing SneakPeeKit</h1>
+                <p class="text-gray-600 dark:text-gray-300"> Unlock your creativity and streamline your design process with our collection of printable wireframe templates for designers. Whether you're brainstorming new app concepts or mapping out website layouts, having the right tools at your fingertips can make all the difference. </p>
             </div>
             <div class="tools-image">
-                <img src="../dash-images/lol-colors.png" alt="">
-                <a href="https://www.webdesignrankings.com/resources/lolcolors/" target="_blank">
+                <img src="../dash-images/useful-kit.png" alt="">
+                <a href="" target="_blank">
                     <button type="button" class="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"> Visit Website</button>
                 </a>
             </div>
         </div>
         <div class="tools-description-header">
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> Discover the perfect color palette for your next project with LOL Colors. Let your imagination run wild as you explore curated palettes, gain inspiration from creative minds worldwide, and bring your vision to life with stunning color combinations</p>
+                <p class="text-gray-600 dark:text-gray-300"> Take your design process to the next level with our printable wireframe templates. Sketch ideas, capture insights, and bring your vision to life with ease.    </p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Handpicked Palettes: </span> Explore a curated collection of color palettes meticulously selected to inspire creativity and elevate your designs. From bold and vibrant combinations to soft and soothing hues, LOL Colors has something for every project and mood.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Variety of Templates: </span>  Explore a wide range of wireframe templates tailored to suit various design needs. From mobile app interfaces to desktop websites, our collection includes templates for every project type and screen size.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Creative Inspiration: </span> Gain inspiration from a diverse range of color palettes designed by talented creatives from around the world. Discover unique color combinations and innovative design concepts to fuel your creativity and take your projects to the next level.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Speed Up Your Creative Process:  </span> With our printable wireframe templates, you can quickly capture insights and sketch out ideas in a matter of minutes. Say goodbye to staring at a blank screen and hello to a streamlined creative process that keeps your ideas flowing.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Easy-to-Use Interface: </span> Navigate LOL Colors' user-friendly interface with ease, allowing you to browse through color palettes effortlessly. Find the perfect palette for your project quickly and efficiently, saving you time and effort in the design process.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Printable and Ready-to-Use: </span> Easily download and print our wireframe templates, allowing you to sketch out ideas anytime, anywhere. Whether you prefer pencil and paper or digital sketching tools, our printable templates provide the flexibility you need to bring your ideas to life.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Versatile Application: </span> Whether you're a graphic designer, web developer, or digital artist, LOL Colors offers inspiration and guidance for all your creative endeavors. Experiment with different color schemes and unleash your artistic vision with confidence</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Enhance Collaboration: </span> Share your wireframe sketches with teammates and stakeholders to gather feedback and iterate on your designs. Our printable templates make it easy to collaborate in-person or remotely, fostering communication and alignment throughout the design process.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Community Engagement: </span> Join a vibrant community of designers and creatives on LOL Colors' platform. Share your favorite palettes, collaborate on projects, and connect with like-minded individuals passionate about color and design.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Accessible for Everyone: </span> Our printable wireframe templates are accessible to designers of all skill levels, from beginners to seasoned professionals. Whether you're a student exploring design concepts or a seasoned UX/UI designer, our templates provide the foundation you need to bring your ideas to fruition.</p>
             </div>
         </div>
     </section>
@@ -317,5 +317,4 @@ if ($conn->connect_error) {
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
     <script src="../../dashboard-pages/dashboard-js/dashboard.js"></script>
 </body>
-
 </html>

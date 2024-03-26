@@ -22,6 +22,9 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 ?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,7 +34,7 @@ if ($conn->connect_error) {
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
     <link rel="shortcut icon" href="../../images/logow.png" type="image/x-icon">
     <link rel="stylesheet" href="../../dashboard-pages/dashboard-css/tools.css">
-    <title>LOL Colors</title>
+    <title>Coolors</title>
 </head>
 
 <body class="bg-white dark:bg-gray-800">
@@ -280,34 +283,34 @@ if ($conn->connect_error) {
     <section class="p-4 sm:ml-64">
         <div class="tools-header">
             <div class="tools-content">
-                <h1 class="text-gray-900 dark:text-white"> Introducing LOL colors</h1>
-                <p class="text-gray-600 dark:text-gray-300"> Unleash your creativity with LOL Colors, your ultimate source for curated color palette inspiration. Whether you're designing a website, crafting a logo, or working on a digital art project, LOL Colors offers a handpicked selection of color palettes to spark your imagination.</p>
+                <h1 class="text-gray-900 dark:text-white"> Introducing Coolors</h1>
+                <p class="text-gray-600 dark:text-gray-300"> Coolors is your ultimate destination for effortless color exploration and palette generation. Whether you're a seasoned designer or just starting out, Coolors offers a wealth of tools and resources to inspire your creativity and elevate your design projects.</p>
             </div>
             <div class="tools-image">
-                <img src="../dash-images/lol-colors.png" alt="">
-                <a href="https://www.webdesignrankings.com/resources/lolcolors/" target="_blank">
+                <img src="../dash-images/colorhunt.png" alt="">
+                <a href="https://coolors.co" target="_blank">
                     <button type="button" class="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"> Visit Website</button>
                 </a>
             </div>
         </div>
         <div class="tools-description-header">
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> Discover the perfect color palette for your next project with LOL Colors. Let your imagination run wild as you explore curated palettes, gain inspiration from creative minds worldwide, and bring your vision to life with stunning color combinations</p>
+                <p class="text-gray-600 dark:text-gray-300"> Experience the power of color with Coolors.co. Explore, create, and collaborate with ease, and elevate your design projects to new heights. Start exploring Coolors.co today and unlock endless possibilities for your next masterpiece.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Handpicked Palettes: </span> Explore a curated collection of color palettes meticulously selected to inspire creativity and elevate your designs. From bold and vibrant combinations to soft and soothing hues, LOL Colors has something for every project and mood.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Color Exploration: </span>Dive into a vast library of colors and explore endless possibilities with Coolors.co's intuitive color exploration tools. Discover new hues, shades, and tones to spark your imagination and bring your ideas to life.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Creative Inspiration: </span> Gain inspiration from a diverse range of color palettes designed by talented creatives from around the world. Discover unique color combinations and innovative design concepts to fuel your creativity and take your projects to the next level.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Palette Generation: </span> Generate stunning color palettes with ease using Coolors.co's powerful palette generation algorithms. Customize your palettes by adjusting hue, saturation, brightness, and more, or let Coolors.co do the work for you with automatic generation based on your preferences.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Easy-to-Use Interface: </span> Navigate LOL Colors' user-friendly interface with ease, allowing you to browse through color palettes effortlessly. Find the perfect palette for your project quickly and efficiently, saving you time and effort in the design process.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Seamless Integration: </span> Integrate Coolors seamlessly into your design workflow with support for popular design tools and platforms. Whether you're using Adobe Creative Cloud, Sketch, Figma, or others, Coolors.co ensures smooth integration for a cohesive design experience.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Versatile Application: </span> Whether you're a graphic designer, web developer, or digital artist, LOL Colors offers inspiration and guidance for all your creative endeavors. Experiment with different color schemes and unleash your artistic vision with confidence</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Collaborative Features: </span> Collaborate with team members and clients in real-time by sharing color palettes and collaborating on design projects. With Coolors.co's collaborative features, you can easily share colors, receive feedback, and ensure consistency across your team's designs.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Community Engagement: </span> Join a vibrant community of designers and creatives on LOL Colors' platform. Share your favorite palettes, collaborate on projects, and connect with like-minded individuals passionate about color and design.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Inspiration </span> Gain inspiration from Coolors vibrant community of designers and creatives. Explore curated color palettes, share your own creations, and engage in meaningful discussions to stay inspired and connected.</p>
             </div>
         </div>
     </section>

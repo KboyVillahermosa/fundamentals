@@ -31,7 +31,7 @@ if ($conn->connect_error) {
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
     <link rel="shortcut icon" href="../../images/logow.png" type="image/x-icon">
     <link rel="stylesheet" href="../../dashboard-pages/dashboard-css/tools.css">
-    <title>LOL Colors</title>
+    <title>Mockflow</title>
 </head>
 
 <body class="bg-white dark:bg-gray-800">
@@ -45,8 +45,8 @@ if ($conn->connect_error) {
                             <path clip-rule="evenodd" fill-rule="evenodd" d="M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zm0 10.5a.75.75 0 01.75-.75h7.5a.75.75 0 010 1.5h-7.5a.75.75 0 01-.75-.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10z"></path>
                         </svg>
                     </button>
-                    <a href="../../index.php" class="flex ms-2 md:me-24">
-                        <img src="../../images/logow.png" class="h-8 me-3" alt="Flowbite Logo" />
+                    <a href="../../../index.php" class="flex ms-2 md:me-24">
+                        <img src="../../../images/logow.png" class="h-8 me-3" alt="Flowbite Logo" />
                         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">TechTool</span>
                     </a>
                 </div>
@@ -280,12 +280,12 @@ if ($conn->connect_error) {
     <section class="p-4 sm:ml-64">
         <div class="tools-header">
             <div class="tools-content">
-                <h1 class="text-gray-900 dark:text-white"> Introducing LOL colors</h1>
-                <p class="text-gray-600 dark:text-gray-300"> Unleash your creativity with LOL Colors, your ultimate source for curated color palette inspiration. Whether you're designing a website, crafting a logo, or working on a digital art project, LOL Colors offers a handpicked selection of color palettes to spark your imagination.</p>
+                <h1 class="text-gray-900 dark:text-white"> Introducing Flowkit</h1>
+                <p class="text-gray-600 dark:text-gray-300"> With Flowkit for Figma, designing user flows becomes a seamless and intuitive process. Here's how Flowkit empowers you to create user flows at the speed of thought </p>
             </div>
             <div class="tools-image">
-                <img src="../dash-images/lol-colors.png" alt="">
-                <a href="https://www.webdesignrankings.com/resources/lolcolors/" target="_blank">
+                <img src="../dash-images/useful-kit.png" alt="">
+                <a href="" target="_blank">
                     <button type="button" class="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"> Visit Website</button>
                 </a>
             </div>
@@ -295,19 +295,19 @@ if ($conn->connect_error) {
                 <p class="text-gray-600 dark:text-gray-300"> Discover the perfect color palette for your next project with LOL Colors. Let your imagination run wild as you explore curated palettes, gain inspiration from creative minds worldwide, and bring your vision to life with stunning color combinations</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Handpicked Palettes: </span> Explore a curated collection of color palettes meticulously selected to inspire creativity and elevate your designs. From bold and vibrant combinations to soft and soothing hues, LOL Colors has something for every project and mood.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Fast and Automatic: </span>  Say goodbye to manual user flow creation. With Flowkit's intuitive features, you can effortlessly generate user flows with lightning speed, allowing you to focus on refining your designs rather than wasting time on repetitive tasks.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Creative Inspiration: </span> Gain inspiration from a diverse range of color palettes designed by talented creatives from around the world. Discover unique color combinations and innovative design concepts to fuel your creativity and take your projects to the next level.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Seamless Integration: </span> Flowkit seamlessly integrates into Figma, your favorite design tool, allowing you to access its powerful features right where you need them. No need to switch between different applications or platforms. Flowkit brings the user flow creation process directly to your workflow.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Easy-to-Use Interface: </span> Navigate LOL Colors' user-friendly interface with ease, allowing you to browse through color palettes effortlessly. Find the perfect palette for your project quickly and efficiently, saving you time and effort in the design process.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Sticky Flows: </span>  Keep your user flows organized and easily accessible with Flowkit's sticky flows feature. Whether you're working on wireframes, prototypes, or final designs, Flowkit ensures that your user flows stay front and center, providing clarity and guidance throughout the design process.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Versatile Application: </span> Whether you're a graphic designer, web developer, or digital artist, LOL Colors offers inspiration and guidance for all your creative endeavors. Experiment with different color schemes and unleash your artistic vision with confidence</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Effortless Collaboration: </span> Collaborate with team members and stakeholders in real-time by sharing your user flows directly within Figma. With Flowkit's collaborative features, you can easily gather feedback, iterate on designs, and ensure alignment across your team.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Community Engagement: </span> Join a vibrant community of designers and creatives on LOL Colors' platform. Share your favorite palettes, collaborate on projects, and connect with like-minded individuals passionate about color and design.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Customization Options: </span> Tailor your user flows to match your project's unique requirements with Flowkit's customization options. From adjusting flow direction and spacing to adding annotations and interactions, Flowkit gives you full control over the look and feel of your user flows.</p>
             </div>
         </div>
     </section>
@@ -317,5 +317,4 @@ if ($conn->connect_error) {
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
     <script src="../../dashboard-pages/dashboard-js/dashboard.js"></script>
 </body>
-
 </html>

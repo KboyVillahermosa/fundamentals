@@ -50,6 +50,7 @@ unset($_SESSION['registration_success']);
 <head>
     <meta charset="utf-8">
     <title>Registration</title>
+    <link rel="shortcut icon" href="images/logow.png" type="image/x-icon">
     <link rel="stylesheet" href="style/registrationn.css">
 </head>
 

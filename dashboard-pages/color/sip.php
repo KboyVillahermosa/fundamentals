@@ -31,7 +31,7 @@ if ($conn->connect_error) {
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
     <link rel="shortcut icon" href="../../images/logow.png" type="image/x-icon">
     <link rel="stylesheet" href="../../dashboard-pages/dashboard-css/tools.css">
-    <title>LOL Colors</title>
+    <title>Sip</title>
 </head>
 
 <body class="bg-white dark:bg-gray-800">
@@ -107,7 +107,7 @@ if ($conn->connect_error) {
                             <path d="M16.975 11H10V4.025a1 1 0 0 0-1.066-.998 8.5 8.5 0 1 0 9.039 9.039.999.999 0 0 0-1-1.066h.002Z" />
                             <path d="M12.5 0c-.157 0-.311.01-.565.027A1 1 0 0 0 11 1.02V10h8.975a1 1 0 0 0 1-.935c.013-.188.028-.374.028-.565A8.51 8.51 0 0 0 12.5 0Z" />
                         </svg>
-                        <span class="ms-3">Introduction</span>
+                        <span class="ms-3">Introductio</span>
                     </a>
                 </li>
                 <li>
@@ -280,11 +280,11 @@ if ($conn->connect_error) {
     <section class="p-4 sm:ml-64">
         <div class="tools-header">
             <div class="tools-content">
-                <h1 class="text-gray-900 dark:text-white"> Introducing LOL colors</h1>
-                <p class="text-gray-600 dark:text-gray-300"> Unleash your creativity with LOL Colors, your ultimate source for curated color palette inspiration. Whether you're designing a website, crafting a logo, or working on a digital art project, LOL Colors offers a handpicked selection of color palettes to spark your imagination.</p>
+                <h1 class="text-gray-900 dark:text-white"> Introducing Sip</h1>
+                <p class="text-gray-600 dark:text-gray-300"> Sip revolutionizes the way designers work with colors, offering a modern color picker that simplifies color organization and enhances team collaboration. With Sip, you can effortlessly capture, organize, and share colors, streamlining your design workflow and fostering collaboration among team members.</p>
             </div>
             <div class="tools-image">
-                <img src="../dash-images/lol-colors.png" alt="">
+                <img src="../dash-images/sip.png" alt="">
                 <a href="https://www.webdesignrankings.com/resources/lolcolors/" target="_blank">
                     <button type="button" class="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"> Visit Website</button>
                 </a>
@@ -292,22 +292,22 @@ if ($conn->connect_error) {
         </div>
         <div class="tools-description-header">
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> Discover the perfect color palette for your next project with LOL Colors. Let your imagination run wild as you explore curated palettes, gain inspiration from creative minds worldwide, and bring your vision to life with stunning color combinations</p>
+                <p class="text-gray-600 dark:text-gray-300">Experience the future of color management and team collaboration with Sip. Streamline your design process, foster collaboration, and unleash your creativity with ease. Try Sip today and discover a new level of efficiency and productivity in your design workflow.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Handpicked Palettes: </span> Explore a curated collection of color palettes meticulously selected to inspire creativity and elevate your designs. From bold and vibrant combinations to soft and soothing hues, LOL Colors has something for every project and mood.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Intuitive Color Picker: </span> Sip's intuitive color picker allows you to quickly and easily capture colors from anywhere on your screen. Whether you're browsing the web, working on a design project, or exploring inspiration, Sip makes it effortless to extract colors with precision.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Creative Inspiration: </span> Gain inspiration from a diverse range of color palettes designed by talented creatives from around the world. Discover unique color combinations and innovative design concepts to fuel your creativity and take your projects to the next level.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Organized Color Palettes: </span> Take control of your color palette organization with Sip's robust management tools. Create custom palettes, group related colors together, and categorize them for easy access and reference. Say goodbye to cluttered color libraries and hello to streamlined organization.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Easy-to-Use Interface: </span> Navigate LOL Colors' user-friendly interface with ease, allowing you to browse through color palettes effortlessly. Find the perfect palette for your project quickly and efficiently, saving you time and effort in the design process.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Team Collaboration: </span> Collaborate with your team in real-time by sharing color palettes and collaborating on design projects. With Sip's seamless collaboration features, you can easily share colors, receive feedback, and ensure consistency across your team's designs.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Versatile Application: </span> Whether you're a graphic designer, web developer, or digital artist, LOL Colors offers inspiration and guidance for all your creative endeavors. Experiment with different color schemes and unleash your artistic vision with confidence</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Integration with Design Tools: </span> Seamlessly integrate Sip with your favorite design tools and workflows. Whether you're using Adobe Creative Cloud, Sketch, Figma, or other popular design software, Sip ensures smooth integration for a seamless design experience.</p>
             </div>
             <div class="tools-description-content">
-                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Community Engagement: </span> Join a vibrant community of designers and creatives on LOL Colors' platform. Share your favorite palettes, collaborate on projects, and connect with like-minded individuals passionate about color and design.</p>
+                <p class="text-gray-600 dark:text-gray-300"> <span class="span-description">Customization and Flexibility: </span>Tailor Sip to your unique workflow with customizable preferences and settings. From color formats to keyboard shortcuts, Sip puts you in control, allowing you to work more efficiently and effectively.</p>
             </div>
         </div>
     </section>
